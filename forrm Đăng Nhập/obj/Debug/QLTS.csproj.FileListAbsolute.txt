@@ -1,0 +1,66 @@
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\QLTS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\QLTS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+C:\Users\Admin\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\QLTS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+C:\Users\Admin\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\QLTS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+C:\Users\Admin\Desktop\doan2-main\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb
+D:\doan2-main\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+D:\doan2-main\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+D:\doan2-main\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\QLTS.csprojAssemblyReference.cache
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\QLTS.csproj.GenerateResource.cache
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+D:\doan2-main\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\QLTS.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\QLTS.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\QLTS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+C:\Users\ASUS\Desktop\doan1\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb

@@ -1,0 +1,22 @@
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.csprojAssemblyReference.cache
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.csproj.GenerateResource.cache
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.csproj.CoreCompileInputs.cache
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+D:\đồ án 1\forrm Đăng Nhập\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe.config
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.exe
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\bin\Debug\forrm Đăng Nhập.pdb
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.csprojAssemblyReference.cache
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QLTS.resources
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.Properties.Resources.resources
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm_Đăng_Nhập.QuanLyThuThu.resources
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.csproj.GenerateResource.cache
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.exe
+C:\Users\MSI\Desktop\doan2\forrm Đăng Nhập\obj\Debug\forrm Đăng Nhập.pdb
